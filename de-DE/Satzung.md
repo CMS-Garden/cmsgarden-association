@@ -38,8 +38,11 @@ Zur Durchführung der Satzung kann der Vorstand eine Geschäftsordnung, eine Mit
 
 1. Ordentliches Mitglied des Vereins kann jede natürliche und juristische Person werden.
 2. Neben den ordentlichen Mitgliedern können fördernde Mitglieder und Ehrenmitglieder aufgenommen werden. Ehren- und Fördermitglieder haben das Recht, an Mitgliederversammlungen teilzunehmen, besitzen aber kein Stimmrecht. 
-3. Näheres regelt die Mitgliedschaftsordnung.
-4. Die von den Mitgliedern zu entrichtenden Beiträge regelt die Beitragsordnung.
+3. Der Erwerb der Mitgliedschaft ist beim Vorstand schriftlich zu beantragen. Der Vorstand entscheidet über die Aufnahme von Mitgliedern. 
+4. Die Mitgliedschaft endet durch Tod, Auflösung bzw. Liquidation, Austritt oder Ausschluss aus wichtigem Grund. 
+5. Vereinsmitglieder können die Mitgliedschaft im Verein mit einer Frist von mindestens 2 Monaten zum Jahresende (bis 31.10.) kündigen. Kündigungen sind schriftlich an den Vorstand zu richten.
+6. Näheres regelt die Mitgliedschaftsordnung.
+7. Die von den Mitgliedern zu entrichtenden Beiträge regelt die Beitragsordnung.
 
 ## § 6 Ausschluss von Mitgliedern
 
@@ -81,26 +84,25 @@ Organe des Vereins sind
     1. wenn es der Interesse des Vereins erfordert,
     2. mindestens einmal jährlich,
     3. bei Ausscheiden eines Mitglieds des Vorstands binnen drei Monaten,
-    4. wenn die Einberufung von einem Drittel aller Mitglieder unter Angabe des Zweckes und der Gründe verlangt wird.
+    4. wenn die Einberufung von einem Drittel aller Mitglieder unter Angabe des Zweckes und der Gründe verlangt wird.
 2. Die Einladung zur Mitgliederversammlung ist den Mitgliedern schriftlich unter Angabe von Zeit, Ort und einer vorläufigen Tagesordnung mindestens vier Wochen vorher zu übersenden. Die Schriftform wird auch Übermittlung auf elektronischem Weg (Fax, E-Mail, usw.) eingehalten.*
 3. Die Mitgliederversammlung gilt als beschlussfähig, wenn mindestens ein Drittel der ordentlichen Mitglieder anwesend oder vertreten ist.  Wird die Beschlussfähigkeit nicht erreicht, ist der Vorstand verpflichtet, innerhalb von vier Wochen eine zweite Mitgliederversammlung einzuberufen. Diese ist ohne Rücksicht auf die Zahl der erschienen Mitglieder beschlussfähig, wenn in der Einladung darauf hingewiesen wurde.
 4. Beschlüsse werden mit einfacher Mehrheit getroffen. Für Änderungen der Satzung oder die Abwahl eines Vorstandsmitglieds ist eine Mehrheit von zwei Dritteln aller Vereinsmitglieder notwendig.
 5. Die Mitgliederversammlung nimmt den jährlich vorzulegenden Geschäftsbericht des Vorstandes entgegen und erteilt dem Vorstand Entlastung.
 6. Die Mitgliederversammlung bestimmt über folgende Angelegenheiten des Vereins:
     1. Wahl und Abberufung der Vorstandsmitglieder.
-    2. Die Ernennung von Ehremitgliedern
+    2. Die Ernennung von Ehrenmitgliedern
     3. Die Berufung gegen einen Beschluss über die Ablehnung eines Aufnahmeantrages.
     4. Die Berufung gegen einen Beschluss über den Ausschluss von Vereinsmitglieder.
     5. Die Geschäftsordnung, die Beitragsordnung, die Mitgliederordnung, sowie weitere vom Vorstand erlassene Ordnungen
     6. Die Auflösung des Vereins.
     7. Weitere ihr vom Vorstand zur Entscheidung übertragene Angelegenheiten.
-    8. Der Mitgliederversammlung ist weiterhin vorbehalten über folgende Angelegenheiten zu entscheiden:
-        1. über den An- und Verkauf sowie die Belastung von Grundbesitz
-        2. die finanzielle Beteiligung an Gesellschaften sowie
-        3. die Aufnahme von Darlehen ab 500 Euro
+    8. Der Mitgliederversammlung ist weiterhin vorbehalten über folgende Angelegenheiten zu entscheiden:
+        1. die Aufnahme von Darlehen ab 500 Euro
 7. Sie kann über weitere Angelegenheiten beschließen, die ihr vom Vorstand oder aus der Mitgliedschaft vorgelegt werden.
 8. Den Ablauf der Mitgliederversammlung regelt die Versammlungsordnung.
 9. Eine Mitgliederversammlung kann in körperlicher Form oder auf dem elektronischen Weg, wie VoIP, TeamSpeak, Skype oder anderen neuen Telekommunikationsmedien erfolgen. Die jeweilige Versammlungsform ist in der Einladung zu benennen.
+10. Die Ergebnisse der Mitgliederversammlung werden protokolliert, vom jeweiligen Protokollführer unterschrieben und den Mitgliedern im Anschluss der Versammlung zur Verfügung gestellt.
 
 ## § 11 Salvatorische Klausel
 
@@ -111,3 +113,10 @@ Organe des Vereins sind
 ## § 12 Übergangsvorschrift
 
 Sofern vom Registergericht Teile der Gründungssatzung beanstandet werden, ist jedes Vorstandsmitglied ermächtigt, diese zur Behebung der Beanstandungen entsprechend abzuändern. Der Vorstand des Vereins wird ermächtigt, bei Beanstandungen im Zusammenhang mit dem Anerkennungsverfahren bei der Gemeinnützigkeit im Sinne der §§ 51 ff. der Abgabenordnung seitens der Finanzbehörden redaktionelle Änderungen bei der Formulierung der vorgenannten Absätze vorzunehmen.
+
+## § 13 Inkrafttreten
+Die Satzung ist in der vorliegenden Form am 22.01.2014 vom Vorstand beschlossen worden um die Eintragungshindernisse zu beseitigen und tritt nach Eintragung in das Vereinsregister in Kraft.
+
+Für die Richtigkeit und Vollständigkeit der Satzung gemäß §71 BGB zeichnet der Vorstand wie folgt:
+
+Berlin, 22.01.2014
