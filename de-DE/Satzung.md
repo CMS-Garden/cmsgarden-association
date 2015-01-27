@@ -3,32 +3,32 @@
 ## § 1 Sitz und Vereinszweck
 
 Der **CMS Garden e. V.**
-mit Sitz in Berlin 
-verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+mit Sitz in Berlin verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+
 Das Geschäftsjahr ist das Kalenderjahr.
 
 Die Zwecke des Vereins sind:
 
-* Verbraucherberatung und Verbraucherschutz, insbesondere hinsichtlich der Nutzung von Open-Source-Content-Management-Systemen
-* Förderung von Bildung, Wissenschaft und Forschung, insbesondere auf den Gebieten Content-Management und Open-Source-Software
+* die Förderung von Volks- und Berufsbildung durch den Einsatz freier Software, die die Verbreitung von Wissen und den öffentlichen Zugang zu Informationen im Internet ermöglicht
+* die Förderung von Bildung, Wissenschaft und Forschung, insbesondere auf den Gebieten Content-Management und Open-Source-Software
 
 Der Satzungszweck wird verwirklicht insbesondere durch
 
-* Qualifizierte Information der Öffentlichkeit über die Möglichkeiten der Erstellung und Pflege von Websites (Internetauftritten)
-* Teilnahme an Veranstaltungen, die dazu geeignet sind, solche Informationsmaßnahmen durchzuführen
-* Organisation und Durchführung solcher Veranstaltungen
+Qualifizierte Information der Öffentlichkeit über die Möglichkeiten der Erstellung und Pflege von Websites (Internetauftritten), z. B.:
+
+* aktive Teilnahme an Veranstaltungen, die dazu geeignet sind, satzungsgemäße Informationsmaßnahmen durchzuführen - u. a. durch das Halten von Vorträgen auf Konferenzen und durch Informationsstände mit ehrenamtlichen Beratern
+* Organisation und Durchführung von Informationsveranstaltungen und Konferenzen 
 * Publikation von Informationsmaterialien
-* Durchführung von Studien oder Vergabe von Forschungsaufträgen
+* Vergabe von Forschungsaufträgen an Hilfspersonen im Sinne des § 57 Abs. 1 Satz 2 Abgabenordnung
 
 ## § 2 Gemeinnützigkeit
-
 1. Die Körperschaft ist selbstlos tätig; sie verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 2. Mittel der Körperschaft dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln der Körperschaft.
 3. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 ## § 3 Auflösung des Vereins
 
-Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft dem Free Software Foundation Europe e.V. zu, der es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat.
+Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft, die es es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat.
 
 ## § 4 Ordnungen
 
@@ -36,8 +36,8 @@ Zur Durchführung der Satzung kann der Vorstand eine Geschäftsordnung, eine Mit
 
 ## § 5 Mitgliedschaft
 
-1. Ordentliches Mitglied des Vereins kann jede natürliche und juristische Person werden.
-2. Neben den ordentlichen Mitgliedern können fördernde Mitglieder und Ehrenmitglieder aufgenommen werden. Ehren- und Fördermitglieder haben das Recht, an Mitgliederversammlungen teilzunehmen, besitzen aber kein Stimmrecht. 
+1. 1. Ordentliches Mitglied des Vereins kann jede natürliche und juristische Person werden.
+2. Neben den ordentlichen Mitgliedern können fördernde Mitglieder und Ehrenmitglieder aufgenommen werden. Ehren- und Fördermitglieder haben das Recht, an Mitglieder­versammlungen teilzunehmen, besitzen aber kein Stimmrecht.
 3. Der Erwerb der Mitgliedschaft ist beim Vorstand schriftlich zu beantragen. Der Vorstand entscheidet über die Aufnahme von Mitgliedern. 
 4. Die Mitgliedschaft endet durch Tod, Auflösung bzw. Liquidation, Austritt oder Ausschluss aus wichtigem Grund. 
 5. Vereinsmitglieder können die Mitgliedschaft im Verein mit einer Frist von mindestens 2 Monaten zum Jahresende (bis 31.10.) kündigen. Kündigungen sind schriftlich an den Vorstand zu richten.
@@ -46,9 +46,9 @@ Zur Durchführung der Satzung kann der Vorstand eine Geschäftsordnung, eine Mit
 
 ## § 6 Ausschluss von Mitgliedern
 
-1. Der Vorstand kann Mitglieder des Vereins aus wichtigen Gründen ausschließen, wenn das Verhalten des Mitglieds in grober Weise gegen die Interessen des Vereins oder die Satzung verstößt. 
-2. Ein wichtiger Grund liegt auch vor, soweit das Mitglied mit seinem Jahresbeitrag trotz zweimaliger Mahnung länger als 6 Monate im Rückstand ist. 
-3. Bevor der Ausschluss durch den Vorstand ausgesprochen wird, ist dem Mitglied Gelegenheit zur Äußerung gegenüber dem Vorstand zu geben. 
+1. Der Vorstand kann Mitglieder des Vereins aus wichtigen Gründen ausschließen, wenn das Verhalten des Mitglieds in grober Weise gegen die Interessen des Vereins oder die Satzung verstößt.
+2. Ein wichtiger Grund liegt auch vor, soweit das Mitglied mit seinem Jahresbeitrag trotz zweimaliger Mahnung länger als 6 Monate im Rückstand ist.
+3. Bevor der Ausschluss durch den Vorstand ausgesprochen wird, ist dem Mitglied Gelegenheit zur Äußerung gegenüber dem Vorstand zu geben.
 4. Gegen den Beschluss des Vorstandes auf Ablehnung der Aufnahme oder Beendigung der Mitgliedschaft kann das Mitglied die Entscheidung der nächsten Mitgliederversammlung als Rechtsbehelf anrufen. Dieser Rechtsbehelf ist binnen einer Ausschlussfrist von einem Monat nach Zugang des Ausschlussbeschlusses vom Mitglied beim Vorstand einzulegen. Der Vorstand hat binnen acht Wochen nach fristgemäßer Einlegung des Rechtsbehelfs eine Mitgliederversammlung einzuberufen, die über den Ausschluss endgültig entscheidet. Lässt das betroffene Mitglied die Frist für die Einlegung des Rechtsbehelfs ungenutzt verstreichen, so endet seine Mitgliedschaft im Verein mit dem Ablauf dieser Frist bzw. mit bestätigendem Beschluss der Mitgliederversammlung.
 
 ## § 7 Organe des Vereins
@@ -84,7 +84,7 @@ Organe des Vereins sind
     1. wenn es der Interesse des Vereins erfordert,
     2. mindestens einmal jährlich,
     3. bei Ausscheiden eines Mitglieds des Vorstands binnen drei Monaten,
-    4. wenn die Einberufung von einem Drittel aller Mitglieder unter Angabe des Zweckes und der Gründe verlangt wird.
+    4. wenn die Einberufung von einem Drittel aller Mitglieder unter Angabe des Zweckes und der Gründe verlangt wird.
 2. Die Einladung zur Mitgliederversammlung ist den Mitgliedern schriftlich unter Angabe von Zeit, Ort und einer vorläufigen Tagesordnung mindestens vier Wochen vorher zu übersenden. Die Schriftform wird auch Übermittlung auf elektronischem Weg (Fax, E-Mail, usw.) eingehalten.*
 3. Die Mitgliederversammlung gilt als beschlussfähig, wenn mindestens ein Drittel der ordentlichen Mitglieder anwesend oder vertreten ist.  Wird die Beschlussfähigkeit nicht erreicht, ist der Vorstand verpflichtet, innerhalb von vier Wochen eine zweite Mitgliederversammlung einzuberufen. Diese ist ohne Rücksicht auf die Zahl der erschienen Mitglieder beschlussfähig, wenn in der Einladung darauf hingewiesen wurde.
 4. Beschlüsse werden mit einfacher Mehrheit getroffen. Für Änderungen der Satzung oder die Abwahl eines Vorstandsmitglieds ist eine Mehrheit von zwei Dritteln aller Vereinsmitglieder notwendig.
@@ -97,7 +97,7 @@ Organe des Vereins sind
     5. Die Geschäftsordnung, die Beitragsordnung, die Mitgliederordnung, sowie weitere vom Vorstand erlassene Ordnungen
     6. Die Auflösung des Vereins.
     7. Weitere ihr vom Vorstand zur Entscheidung übertragene Angelegenheiten.
-    8. Der Mitgliederversammlung ist weiterhin vorbehalten über folgende Angelegenheiten zu entscheiden:
+    8. Der Mitgliederversammlung ist weiterhin vorbehalten über folgende Angelegenheiten zu entscheiden:
         1. die Aufnahme von Darlehen ab 500 Euro
 7. Sie kann über weitere Angelegenheiten beschließen, die ihr vom Vorstand oder aus der Mitgliedschaft vorgelegt werden.
 8. Den Ablauf der Mitgliederversammlung regelt die Versammlungsordnung.
