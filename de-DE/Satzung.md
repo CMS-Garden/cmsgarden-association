@@ -17,9 +17,9 @@ Der Satzungszweck wird verwirklicht insbesondere durch
 Qualifizierte Information der Öffentlichkeit über die Möglichkeiten der Erstellung und Pflege von Websites (Internetauftritten), z. B.:
 
 * aktive Teilnahme an Veranstaltungen, die dazu geeignet sind, satzungsgemäße Informationsmaßnahmen durchzuführen - u. a. durch das Halten von Vorträgen auf Konferenzen und durch Informationsstände mit ehrenamtlichen Beratern
-* Organisation und Durchführung von Informationsveranstaltungen und Konferenzen 
+* Organisation und Durchführung von Informationsveranstaltungen und Konferenzen
 * Publikation von Informationsmaterialien
-* Vergabe von Forschungsaufträgen an Hilfspersonen im Sinne des § 57 Abs. 1 Satz 2 Abgabenordnung
+* Vergabe von Forschungsaufträgen an Hilfspersonen im Sinne des § 57 Abs. 1 Satz 2 Abgabenordnung und Selbstverpflichtung zur zeitnahen Veröffentlichung aller Forschungsergebnisse
 
 ## § 2 Gemeinnützigkeit
 1. Die Körperschaft ist selbstlos tätig; sie verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
@@ -28,7 +28,7 @@ Qualifizierte Information der Öffentlichkeit über die Möglichkeiten der Erste
 
 ## § 3 Auflösung des Vereins
 
-Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft, die es es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat.
+Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft dem Free Software Foundation Europe e.V. zu, der es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat.
 
 ## § 4 Ordnungen
 
@@ -37,9 +37,9 @@ Zur Durchführung der Satzung kann der Vorstand eine Geschäftsordnung, eine Mit
 ## § 5 Mitgliedschaft
 
 1. 1. Ordentliches Mitglied des Vereins kann jede natürliche und juristische Person werden.
-2. Neben den ordentlichen Mitgliedern können fördernde Mitglieder und Ehrenmitglieder aufgenommen werden. Ehren- und Fördermitglieder haben das Recht, an Mitglieder­versammlungen teilzunehmen, besitzen aber kein Stimmrecht.
-3. Der Erwerb der Mitgliedschaft ist beim Vorstand schriftlich zu beantragen. Der Vorstand entscheidet über die Aufnahme von Mitgliedern. 
-4. Die Mitgliedschaft endet durch Tod, Auflösung bzw. Liquidation, Austritt oder Ausschluss aus wichtigem Grund. 
+2. Neben den ordentlichen Mitgliedern können fördernde Mitglieder und Ehrenmitglieder aufgenommen werden. Ehren- und Fördermitglieder haben das Recht, an Mitglieder-versammlungen teilzunehmen, besitzen aber kein Stimmrecht.
+3. Der Erwerb der Mitgliedschaft ist beim Vorstand schriftlich zu beantragen. Der Vorstand entscheidet über die Aufnahme von Mitgliedern.
+4. Die Mitgliedschaft endet durch Tod, Auflösung bzw. Liquidation, Austritt oder Ausschluss aus wichtigem Grund.
 5. Vereinsmitglieder können die Mitgliedschaft im Verein mit einer Frist von mindestens 2 Monaten zum Jahresende (bis 31.10.) kündigen. Kündigungen sind schriftlich an den Vorstand zu richten.
 6. Näheres regelt die Mitgliedschaftsordnung.
 7. Die von den Mitgliedern zu entrichtenden Beiträge regelt die Beitragsordnung.
@@ -66,10 +66,10 @@ Organe des Vereins sind
 3. Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren, gerechnet von der Wahl an, gewählt. Er bleibt bis zur Neuwahl eines Vorstandes im Amt. Wiederwahl ist zulässig. Scheidet ein Vorstandsmitglied aus, so kann der Vorstand für die restliche Amtsdauer des Ausgeschiedenen einen Nachfolger wählen.
 4. Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung ausdrücklich der Mitgliederversammlung übertragen sind.
 5. Das Amt eines Vorstandsmitgliedes endet
-    * durch Ablauf der Amtszeit 
-    * mit der Niederlegung des Amtes 
-    * mit der Abberufung durch die Mitgliederversammlung 
-    * mit dem Ausscheiden des Vorstandsmitgliedes aus dem Verein 
+    * durch Ablauf der Amtszeit
+    * mit der Niederlegung des Amtes
+    * mit der Abberufung durch die Mitgliederversammlung
+    * mit dem Ausscheiden des Vorstandsmitgliedes aus dem Verein
     * durch Tod.
 
 ## § 9 Beirat
@@ -106,8 +106,8 @@ Organe des Vereins sind
 
 ## § 11 Salvatorische Klausel
 
-1. Sollten einzelne Bestimmungen dieser Satzung rechtsunwirksam sein oder werden, so bleibt die Wirksamkeit aller anderen Bestimmungen hiervon unberührt. 
-2. An die Stelle der unwirksamen oder undurchführbaren Bestimmung soll diejenige wirksame und durchführbare Regelung treten, deren Wirkungen der Zielsetzung am nächsten kommen, die die Mitglieder mit der unwirksamen bzw. undurchführbaren Bestimmung verfolgt haben. 
+1. Sollten einzelne Bestimmungen dieser Satzung rechtsunwirksam sein oder werden, so bleibt die Wirksamkeit aller anderen Bestimmungen hiervon unberührt.
+2. An die Stelle der unwirksamen oder undurchführbaren Bestimmung soll diejenige wirksame und durchführbare Regelung treten, deren Wirkungen der Zielsetzung am nächsten kommen, die die Mitglieder mit der unwirksamen bzw. undurchführbaren Bestimmung verfolgt haben.
 3. Die vorstehenden Bestimmungen gelten entsprechend für den Fall, dass sich die Satzung als lückenhaft erweist.
 
 ## § 12 Übergangsvorschrift
@@ -119,4 +119,4 @@ Die Satzung ist in der vorliegenden Form am 22.01.2014 vom Vorstand beschlossen 
 
 Für die Richtigkeit und Vollständigkeit der Satzung gemäß §71 BGB zeichnet der Vorstand wie folgt:
 
-Berlin, 22.01.2014
+Berlin, 01.06.2015
